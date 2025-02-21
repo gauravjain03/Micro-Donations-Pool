@@ -41,7 +41,12 @@ You can interact with the smart contract using [Remix Ethereum IDE](https://remi
    - Use any crypto wallet to send donations to the deployed contract address.  
    
 2. **Withdrawing Funds (Owner Only):**  
-   - The contract owner can withdraw collected funds by invoking the `withdraw()` function.  
+   - The contract owner can withdraw collected funds by invoking the `withdraw()` function.
+  
+     ---
+Team
+
+Gaurav Jain – Developer of the Micro Donations Pool project, responsible for designing and developing the smart contract using Solidity, ensuring transparency, security, and efficiency.
 
 ---
 
